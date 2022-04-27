@@ -1,3 +1,3 @@
 # JavaApps
-JavaCampUygulamaOdev
+JavaCampUygulama
 JavaCamp week two(2)
